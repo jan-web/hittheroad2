@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hws2/static/css/main.a91ca33a.css",
-    "main.js": "/hws2/static/js/main.33b335ab.js",
-    "static/js/787.66cb4309.chunk.js": "/hws2/static/js/787.66cb4309.chunk.js",
-    "static/media/avatar.png": "/hws2/static/media/avatar.d947cb9d0d13765666b6.png",
-    "index.html": "/hws2/index.html",
-    "main.a91ca33a.css.map": "/hws2/static/css/main.a91ca33a.css.map",
-    "main.33b335ab.js.map": "/hws2/static/js/main.33b335ab.js.map",
-    "787.66cb4309.chunk.js.map": "/hws2/static/js/787.66cb4309.chunk.js.map"
+    "main.css": "/hittheroad2/static/css/main.a91ca33a.css",
+    "main.js": "/hittheroad2/static/js/main.65a377fb.js",
+    "static/js/787.66cb4309.chunk.js": "/hittheroad2/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/hittheroad2/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/hittheroad2/index.html",
+    "main.a91ca33a.css.map": "/hittheroad2/static/css/main.a91ca33a.css.map",
+    "main.65a377fb.js.map": "/hittheroad2/static/js/main.65a377fb.js.map",
+    "787.66cb4309.chunk.js.map": "/hittheroad2/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a91ca33a.css",
-    "static/js/main.33b335ab.js"
+    "static/js/main.65a377fb.js"
   ]
 }
