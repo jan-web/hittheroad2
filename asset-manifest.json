@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/hittheroad2/static/css/main.f9c0c8ca.css",
-    "main.js": "/hittheroad2/static/js/main.74a2e545.js",
+    "main.css": "/hittheroad2/static/css/main.ab1f7ee1.css",
+    "main.js": "/hittheroad2/static/js/main.e2602f18.js",
     "static/js/787.66cb4309.chunk.js": "/hittheroad2/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/hittheroad2/static/media/avatar.d947cb9d0d13765666b6.png",
+    "static/media/checked.svg": "/hittheroad2/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/hittheroad2/index.html",
-    "main.f9c0c8ca.css.map": "/hittheroad2/static/css/main.f9c0c8ca.css.map",
-    "main.74a2e545.js.map": "/hittheroad2/static/js/main.74a2e545.js.map",
+    "main.ab1f7ee1.css.map": "/hittheroad2/static/css/main.ab1f7ee1.css.map",
+    "main.e2602f18.js.map": "/hittheroad2/static/js/main.e2602f18.js.map",
     "787.66cb4309.chunk.js.map": "/hittheroad2/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9c0c8ca.css",
-    "static/js/main.74a2e545.js"
+    "static/css/main.ab1f7ee1.css",
+    "static/js/main.e2602f18.js"
   ]
 }
