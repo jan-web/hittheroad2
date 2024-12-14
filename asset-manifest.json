@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/hittheroad2/static/css/main.ab1f7ee1.css",
-    "main.js": "/hittheroad2/static/js/main.9433d7e1.js",
+    "main.js": "/hittheroad2/static/js/main.c5318a2a.js",
     "static/js/787.66cb4309.chunk.js": "/hittheroad2/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/hittheroad2/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/checked.svg": "/hittheroad2/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/hittheroad2/index.html",
     "main.ab1f7ee1.css.map": "/hittheroad2/static/css/main.ab1f7ee1.css.map",
-    "main.9433d7e1.js.map": "/hittheroad2/static/js/main.9433d7e1.js.map",
+    "main.c5318a2a.js.map": "/hittheroad2/static/js/main.c5318a2a.js.map",
     "787.66cb4309.chunk.js.map": "/hittheroad2/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab1f7ee1.css",
-    "static/js/main.9433d7e1.js"
+    "static/js/main.c5318a2a.js"
   ]
 }
